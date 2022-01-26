@@ -17,6 +17,7 @@ Pillow==8.1.0
 tk-tools==0.13.0
 ```
 
+### Main Pages
 
 ![1.png](https://github.com/sukrucnCbc/traveller-app/blob/master/img/1.png?raw=true)
 ![2.png](https://github.com/sukrucnCbc/traveller-app/blob/master/img/2.png?raw=true)
