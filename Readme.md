@@ -1,4 +1,4 @@
-# Gezgin Bilet - Traveller App
+# Gezgin App - Travel Ticket Buying Otomation
 
 Bu proje Python tkinter kütüphanesi kullanılarak geliştirilmiştir. Bilet satın alma otomasyonu olarak kullanılması planlanmaktadır.
 This project has been developed using the Python Tkinter library.
